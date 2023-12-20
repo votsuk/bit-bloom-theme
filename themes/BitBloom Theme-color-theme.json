@@ -10,7 +10,7 @@
 		"foreground": "#f2b9a0"
 	  },
 	  "variable.defaultLibrary": {
-		"foreground": "#eb6f92"
+		"foreground": "#ced4e0"
 	  }
 	},
 	"tokenColors": [
@@ -54,6 +54,20 @@
 		"scope": "variable.parameter.function.language.special.self.python",
 		"settings": {
 		  "foreground": "#eb6f92"
+		}
+	  },
+	  {
+		"name": "punctuation.definition.binding-pattern.object.tsx",
+		"scope": "punctuation.definition.binding-pattern.object.tsx",
+		"settings": {
+			"foreground": "#ced4e0"
+		}
+	  },
+	  {
+		"name": "punctuation.definition.binding-pattern.array.tsx",
+		"scope": "punctuation.definition.binding-pattern.array.tsx",
+		"settings": {
+			"foreground": "#ced4e0"
 		}
 	  },
 	  {
@@ -200,7 +214,7 @@
 		"name": "js/ts variable.other.constant",
 		"scope": "variable.other.constant",
 		"settings": {
-		  "foreground": "#eb6f92"
+		  "foreground": "#ced4e0"
 		}
 	  },
 	  {
@@ -336,7 +350,7 @@
 		"name": "js variable readwrite",
 		"scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
 		"settings": {
-		  "foreground": "#ced4e0"
+		  "foreground": "#f2b9a0"
 		}
 	  },
 	  {
@@ -613,7 +627,7 @@
 		"name": "Classes",
 		"scope": "support.class, entity.name.type.class",
 		"settings": {
-		  "foreground": "#eb6f92"
+		  "foreground": "#9ccfd8"
 		}
 	  },
 	  {
