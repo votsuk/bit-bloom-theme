@@ -1,0 +1,26 @@
+{
+  "name": "bitbloom-theme",
+  "displayName": "BitBloom Theme",
+  "description": "A theme for VS Code",
+  "publisher": "stevenkustov",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:votsuk/bit-boom-theme.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "BitBloom Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/BitBloom Theme-color-theme.json"
+      }
+    ]
+  }
+}
