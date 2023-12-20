@@ -2,6 +2,7 @@
   "name": "bitbloom-theme",
   "displayName": "BitBloom Theme",
   "description": "A theme for VS Code",
+  "icon": "images/bitbloom_logo.png",
   "publisher": "stevenkustov",
   "version": "0.0.2",
   "engines": {
